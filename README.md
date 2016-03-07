@@ -9,5 +9,5 @@ The intelligent car is a team project developed by Horatiu Lazu, Richard Dang an
 * Minimal turning radius
 * Minimal materials and processing use
 
-##Video emonstration:
+##Video Demonstration:
 Click [here](https://www.youtube.com/watch?v=MwWELXI1nP4&feature=youtu.be) for the demonstration
