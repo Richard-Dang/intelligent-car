@@ -9,5 +9,8 @@ The Intelligent Car is a vehicle that is able to traverse a maze using an Arduin
 * Minimal turning radius
 * Minimal materials and processing use
 
+## Screenshots
+![Intelligent Car](http://richarddang.com/images/portfolio/intelligent-car.gif)
+
 ## Video Demonstration
 Click [here](https://www.youtube.com/watch?v=MwWELXI1nP4&feature=youtu.be) for the demonstration
